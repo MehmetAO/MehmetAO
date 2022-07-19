@@ -10,4 +10,4 @@ Hi, stranger 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My little fingers are curvy
 
-A mechanical engineer loves coding, planning to start a new carrer as a software developper.
+A mechanical engineer loves coding, planning to start a new carrer as a software developer.
