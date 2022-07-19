@@ -1,7 +1,7 @@
 Hi! stranger 👋
 
 
-- 🔭 I’m currently working on a IoT project with image processing
+- 🔭 I’m currently working on an [IoT project with image processing](https://github.com/MehmetAO/licence-plate-recognition)
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on [licence-plate-recognition](https://github.com/MehmetAO/licence-plate-recognition)
 - 🤔 I’m looking for help with OpenCV
@@ -10,4 +10,4 @@ Hi! stranger 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My little fingers are curvy
 
-A mechanical engineer loves coding, planning to start a new carrer as a developper.
+A mechanical engineer loves coding, planning to start a new carrer as a software developper.
