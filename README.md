@@ -1,4 +1,4 @@
-Hi! stranger 👋
+Hi, stranger 👋
 
 
 - 🔭 I’m currently working on an [IoT project with image processing](https://github.com/MehmetAO/licence-plate-recognition)
