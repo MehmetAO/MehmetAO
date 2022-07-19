@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! stranger 👋
 
 
 - 🔭 I’m currently working on a IoT project with image processing
@@ -8,5 +8,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [E-Mail](mailto:ongan.mehmetali@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: My little fingers are curvy
+
+A mechanical engineer loves coding, planning to start a new carrer as a developper.
