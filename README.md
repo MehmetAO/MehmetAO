@@ -1,5 +1,8 @@
-Hi, stranger 👋
+# ![alt text](url)
+![My image]([http://url/to/image.jpg](https://i0.wp.com/www.featheryforest.be/wp-content/uploads/2021/05/pond-1.jpg?resize=605%2C465&ssl=1))
 
+
+Hi, stranger 👋
 
 - 🔭 I’m currently working on an [IoT project with image processing](https://github.com/MehmetAO/licence-plate-recognition)
 - 🌱 I’m currently learning C++
