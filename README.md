@@ -1,6 +1,8 @@
-![My image](https://www.fao.org/images/devforestslibraries/default-album/forests.jpg?sfvrsn=2dd96b96_11)
+![My image](https://raw.githubusercontent.com/makccr/wallpapers/master/wallpapers/space/nasa--hI5dX2ObAs-unsplash.jpg)
 
 # Hi, stranger 👋
+
+A mechanical engineer loves coding, planning to start a new carrer as a software developer and actively looking for a job
 
 - 🔭 I’m currently working on an [IoT project with image processing](https://github.com/MehmetAO/licence-plate-recognition)
 - 🌱 I’m currently learning C++
@@ -10,9 +12,6 @@
 - 📫 How to reach me: [E-Mail](mailto:ongan.mehmetali@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My little fingers are curvy
-
-A mechanical engineer loves coding, planning to start a new carrer as a software developer.
-
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maliongan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-ali-ongan-b19369147/) 
