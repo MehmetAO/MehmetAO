@@ -1,6 +1,6 @@
 ![My image](https://www.fao.org/images/devforestslibraries/default-album/forests.jpg?sfvrsn=2dd96b96_11)
 
-Hi, stranger 👋
+# Hi, stranger 👋
 
 - 🔭 I’m currently working on an [IoT project with image processing](https://github.com/MehmetAO/licence-plate-recognition)
 - 🌱 I’m currently learning C++
@@ -14,7 +14,7 @@ Hi, stranger 👋
 A mechanical engineer loves coding, planning to start a new carrer as a software developer.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maliongan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-ali-ongan-b19369147/) 
 
 # 💻 Tech Stack:
