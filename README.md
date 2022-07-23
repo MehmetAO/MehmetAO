@@ -1,5 +1,3 @@
-
-# ![alt text](url)
 ![My image](https://www.fao.org/images/devforestslibraries/default-album/forests.jpg?sfvrsn=2dd96b96_11)
 
 Hi, stranger 👋
