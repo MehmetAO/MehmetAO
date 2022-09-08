@@ -2,7 +2,7 @@
 
 # Hi, stranger 👋
 
-A mechanical engineer loves coding, planning to start a new career as a software developer and actively looking for a job
+A mechanical engineer loves coding here.
 
 - 🔭 I’m currently working on an [IoT project with image processing](https://github.com/MehmetAO/licence-plate-recognition)
 - 🌱 I’m currently learning C++
