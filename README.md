@@ -11,7 +11,6 @@ A mechanical engineer loves coding here.
 - 💬 Ask me about anything
 - 📫 How to reach me: [E-Mail](mailto:ongan.mehmetali@gmail.com)
 - 😄 Pronouns: He/Him
-- //⚡ Fun fact: My little fingers are curvy
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maliongan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-ali-ongan-b19369147/) 
